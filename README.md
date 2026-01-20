@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack (What I Actually Use)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,mysql,linux,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,java,node,spring,linux,git,figma" />
 </p>
 
 ---
@@ -28,12 +28,8 @@
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,java,python,git" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mravindu&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mravindu&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mravindu&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -48,9 +44,12 @@
 
 ## 🧠 Currently Focusing On
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-orange"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-brightgreen"/>
   <img src="https://img.shields.io/badge/React-TypeScript-blue"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-brightgreen"/>
+  <img src="https://img.shields.io/badge/Mysql-navyblue"/>
+  <img src="https://img.shields.io/badge/Java-Backend%20Development-orange"/>
+
+
 </p>
 
 ---
