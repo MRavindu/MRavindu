@@ -15,7 +15,7 @@
 
 ---
 
-<!-- ## 📊 GitHub at a Glance
+## 📊 GitHub at a Glance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mravindu&show_icons=true&theme=default&hide_border=true" height="170"/>
@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mravindu&layout=compact&hide_border=true"/>
-</p> -->
+</p>
 
 ---
 
