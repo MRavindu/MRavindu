@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋 I'm Ravindu Medagama</h1>
 <h3 align="center">Bachelor of Science in Information Systems | Master of Computer Science (reading...) </h3>
 
-<h2>👨‍💻 About Me </h2>
-<div style="display:flex, flexDirection: row">
-  <ul style="color:yellow">
-    <li>🚀 Passionate about building scalable software </li>
-    <li>🧠 Interested in UI/UX Engineering, backend, and fullstack web development </li>
-    <li>🎓 Studied at University of Colombo School of Computing </li>
-    <li>🌍 Based in Sri Lanka </li>
-    <li>💬 Ask me about JavaScript, Java, Python, React, or CS fundamentals </li>
-  </ul>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mravindu&label=Profile%20Views&color=0e75b6&style=flat" />
-  </p>
+##👨‍💻 About Me
 
-</div>
----
-
+<ul style="color:yellow">
+  <li>🚀 Passionate about building scalable software </li>
+  <li>🧠 Interested in UI/UX Engineering, backend, and fullstack web development </li>
+  <li>🎓 Studied at University of Colombo School of Computing </li>
+  <li>🌍 Based in Sri Lanka </li>
+  <li>💬 Ask me about JavaScript, Java, Python, React, or CS fundamentals </li>
+</ul>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mravindu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
