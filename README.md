@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack (What I Actually Use)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,java,node,spring,linux,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,java,.net,spring,linux,git,figma" />
 </p>
 
 ---
@@ -45,8 +45,8 @@
 ## 🧠 Currently Focusing On
 <p align="center">
   <img src="https://img.shields.io/badge/React-TypeScript-blue"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-brightgreen"/>
-  <img src="https://img.shields.io/badge/Mysql-navyblue"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-green"/>
+  <img src="https://img.shields.io/badge/Database-Mysql-blue"/>
   <img src="https://img.shields.io/badge/Java-Backend%20Development-orange"/>
 
 
