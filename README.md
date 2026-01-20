@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack (What I Actually Use)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,java,.net,spring,linux,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,java,python,spring,linux,git,figma" />
 </p>
 
 ---
