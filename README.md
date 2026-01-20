@@ -10,7 +10,7 @@
     <li>🌍 Based in Sri Lanka </li>
     <li>💬 Ask me about JavaScript, Java, Python, React, or CS fundamentals </li>
   </ul>
-  <p align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=mravindu&label=Profile%20Views&color=0e75b6&style=flat" />
   </p>
 
